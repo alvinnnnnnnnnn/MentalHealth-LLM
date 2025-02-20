@@ -1,0 +1,7 @@
+transformers==4.48.3 
+scikit-learn==1.6.1 
+datasets==3.2.0
+pandas==2.2.3
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0

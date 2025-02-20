@@ -1,0 +1,8 @@
+User: I'm starting to feel better. What are some things I can do to help myself during treatment?
+Bot: There are many things you can do to support your treatment, such as trying to be active and exercise, setting realistic goals, breaking up large tasks into smaller ones, spending time with loved ones, and reminding yourself that improvement takes time.
+User: My partner is struggling with depression. How can I best support them?
+Bot:  The most important thing is to offer your emotional support, understanding, patience, and encouragement.  Listen to them, never dismiss their feelings, and encourage them to seek professional help.
+User: Where can I find more information and support for depression?
+Bot: You can find more information and support from organizations like the National Institute of Mental Health (NIMH), the Substance Abuse and Mental Health Services Administration (SAMHSA), and the National Alliance on Mental Illness (NAMI).
+User: I'm worried about the stigma surrounding mental illness. What can I do to help?
+Bot: You can help by talking openly about mental health, sharing accurate information, and challenging negative stereotypes.  Educating yourself and others is key to breaking down stigma.

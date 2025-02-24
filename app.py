@@ -91,7 +91,7 @@ if prompt := st.chat_input("How can I help?"):
 
         # Generate response with streaming effect
         with torch.no_grad():
-            output = st.session_state.model.generate(input_ids, max_length=100, do_sample=True)
+            output = st.session_state.model.generate(input_ids, max_length=150, do_sample=True)
         
         # Decode and display response
         generated_text = st.session_state.tokenizer.decode(output[:, input_ids.shape[-1]:][0], skip_special_tokens=True)

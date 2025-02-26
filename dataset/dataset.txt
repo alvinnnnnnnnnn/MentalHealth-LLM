@@ -59,187 +59,187 @@ user: I'm worried about the stigma surrounding mental illness. What can I do to 
 bot: You can help by talking openly about mental health, sharing accurate information, and challenging negative stereotypes.  Educating yourself and others is key to breaking down stigma.
 
 user: What are some common mental health struggles people face?
-bot: Mental health challenges can look different for everyone, but some common ones include anxiety, depression, stress, and burnout. If youï¿½ve been feeling overwhelmed, sad, or anxious, please know that youï¿½re not alone. Iï¿½m here to support you, and there are people who care about you and want to help.
+bot: Mental health challenges can look different for everyone, but some common ones include anxiety, depression, stress, and burnout. If you've been feeling overwhelmed, sad, or anxious, please know that you're not alone. I'm here to support you, and there are people who care about you and want to help.
 
 user: Why is mental health important?
-bot: Your mental health matters just as much as your physical health. It affects how you feel, think, and navigate lifeï¿½s ups and downs. Taking care of your mental well-being helps you build resilience, strengthen relationships, and find joy in daily moments. If you're struggling, remember that it's okay to ask for helpï¿½you deserve support.
+bot: Your mental health matters just as much as your physical health. It affects how you feel, think, and navigate life's ups and downs. Taking care of your mental well-being helps you build resilience, strengthen relationships, and find joy in daily moments. If you're struggling, remember that it's okay to ask for help: you deserve support.
 
-user: Iï¿½ve been feeling really stressed lately. What can I do?
-bot: Iï¿½m sorry youï¿½re feeling this way. Stress can be tough to manage, but small steps can help. Have you tried taking a few deep breaths or stepping away for a short break? Movement, journaling, or simply talking to someone who understands can also make a difference. You donï¿½t have to face this aloneï¿½would you like to try a short breathing exercise with me?
+user: I've been feeling really stressed lately. What can I do?
+bot: I'm sorry you're feeling this way. Stress can be tough to manage, but small steps can help. Have you tried taking a few deep breaths or stepping away for a short break? Movement, journaling, or simply talking to someone who understands can also make a difference. You don't have to face this alone: would you like to try a short breathing exercise with me?
 
 user: How can I take better care of my mental health?
-bot: Taking care of your mind is just as important as taking care of your body. Some simple ways to nurture your well-being include getting enough rest, being kind to yourself, setting boundaries, and engaging in activities that bring you peace. Whatï¿½s one small thing you can do today to show yourself some kindness?
+bot: Taking care of your mind is just as important as taking care of your body. Some simple ways to nurture your well-being include getting enough rest, being kind to yourself, setting boundaries, and engaging in activities that bring you peace. What's one small thing you can do today to show yourself some kindness?
 
 user: How do I know if I need professional help?
-bot: If youï¿½ve been feeling sad, anxious, or emotionally drained for a while, or if itï¿½s getting harder to go about your day, reaching out for support could help. Speaking to a professional doesnï¿½t mean something is wrong with youï¿½it just means youï¿½re taking an important step toward feeling better. You deserve care and support, and help is available whenever youï¿½re ready.
+bot: If you've been feeling sad, anxious, or emotionally drained for a while, or if it's getting harder to go about your day, reaching out for support could help. Speaking to a professional doesn't mean something is wrong with you: it just means you're taking an important step toward feeling better. You deserve care and support, and help is available whenever you're ready.
 
 user: Where can I find help if I need someone to talk to?
-bot: Iï¿½m really sorry youï¿½re going through this. You donï¿½t have to do it aloneï¿½there are people who truly care and want to support you. If youï¿½d like, I can share some helplines and resources where you can talk to someone who understands. Would you like me to do that?
+bot: I'm really sorry you're going through this. You don't have to do it alone: there are people who truly care and want to support you. If you'd like, I can share some helplines and resources where you can talk to someone who understands. Would you like me to do that?
 
 user: What can we do as a society to support mental health?
 bot: Every small act of kindness and understanding helps create a world where mental health is valued. We can support each other by being open about our struggles, listening without judgment, and encouraging people to seek help when they need it. You matter, and your feelings are valid.
 
 user: How can I help a loved one who is struggling?
-bot: Itï¿½s really kind of you to want to support someone you care about. The best thing you can do is let them know youï¿½re there for themï¿½without pressure, without judgment. A simple ï¿½Iï¿½m here for youï¿½ can mean so much. If theyï¿½re open to it, you can also encourage them to seek help or do small things together that bring comfort, like going for a walk or sharing a quiet moment. Just knowing theyï¿½re not alone can make a huge difference.
+bot: it's really kind of you to want to support someone you care about. The best thing you can do is let them know you're there for them- without pressure, without judgment. A simple "I'm here for you" can mean so much. If they're open to it, you can also encourage them to seek help or do small things together that bring comfort, like going for a walk or sharing a quiet moment. Just knowing they're not alone can make a huge difference.
 
 user: What are some signs that someone may be struggling with their mental health?
-bot: Signs can vary, but common ones include withdrawing from others, changes in sleep or appetite, feeling hopeless, struggling to focus, or losing interest in things they once enjoyed. If you're noticing these signs in yourself or someone else, itï¿½s okay to reach out for support. Youï¿½re not alone.
+bot: Signs can vary, but common ones include withdrawing from others, changes in sleep or appetite, feeling hopeless, struggling to focus, or losing interest in things they once enjoyed. If you're noticing these signs in yourself or someone else, it's okay to reach out for support. you're not alone.
 
-user: I feel lonely even when Iï¿½m around people. What should I do?
-bot: Iï¿½m really sorry youï¿½re feeling this way. Loneliness can be tough, even when surrounded by others. It might help to talk to someone you trust about how youï¿½re feeling. Connecting with people who share your interests, practicing self-compassion, or joining a support group might also bring comfort. You deserve meaningful connections.
+user: I feel lonely even when I'm around people. What should I do?
+bot: I'm really sorry you're feeling this way. Loneliness can be tough, even when surrounded by others. It might help to talk to someone you trust about how you're feeling. Connecting with people who share your interests, practicing self-compassion, or joining a support group might also bring comfort. You deserve meaningful connections.
 
 user: How can I deal with negative thoughts?
-bot: Negative thoughts can feel overwhelming, but they donï¿½t define you. Try acknowledging them without judgment and challenging them with kindness. Ask yourself: "Would I say this to a friend?" Mindfulness, journaling, and therapy can help reframe these thoughts over time. You are stronger than your thoughts.
+bot: Negative thoughts can feel overwhelming, but they don't define you. Try acknowledging them without judgment and challenging them with kindness. Ask yourself: "Would I say this to a friend?" Mindfulness, journaling, and therapy can help reframe these thoughts over time. You are stronger than your thoughts.
 
 user: I feel like a burden to others. How can I cope?
-bot: You are not a burdenï¿½you are a human being who deserves care and support. The people who care about you want to be there for you, just like you would be there for them. If these feelings persist, talking to a professional can help. You are important and you matter.
+bot: You are not a burden- you are a human being who deserves care and support. The people who care about you want to be there for you, just like you would be there for them. If these feelings persist, talking to a professional can help. You are important and you matter.
 
 user: How can I calm down during a panic attack?
-bot: I know panic attacks can feel really scary, but they will pass. Try to focus on slow, deep breathsï¿½inhale for 4 seconds, hold for 7, and exhale for 8. Ground yourself by naming five things you see, four things you touch, three things you hear, two things you smell, and one thing you taste. You are safe, and this moment will pass.
+bot: I know panic attacks can feel really scary, but they will pass. Try to focus on slow, deep breaths: inhale for 4 seconds, hold for 7, and exhale for 8. Ground yourself by naming five things you see, four things you touch, three things you hear, two things you smell, and one thing you taste. You are safe, and this moment will pass.
 
 user: I keep comparing myself to others. How do I stop?
-bot: Comparison can be tough, especially in the age of social media. Try to remind yourself that everyone has their own journey, and what you see online is often just the highlights. Focus on your own progress and growth. Whatï¿½s one thing youï¿½re proud of about yourself today?
+bot: Comparison can be tough, especially in the age of social media. Try to remind yourself that everyone has their own journey, and what you see online is often just the highlights. Focus on your own progress and growth. What's one thing you're oud of about yourself today?
 
-user: I donï¿½t feel motivated to do anything. What can I do?
-bot: Itï¿½s okay to feel unmotivated sometimes. Start with small, manageable stepsï¿½like getting out of bed, drinking water, or taking a short walk. Be gentle with yourself, and remember that even small progress is still progress. If this feeling lasts a while, it might help to talk to someone about it. Youï¿½re not alone.
+user: I don't feel motivated to do anything. What can I do?
+bot: it's okay to feel unmotivated sometimes. Start with small, manageable steps: getting out of bed, drinking water, or taking a short walk. Be gentle with yourself, and remember that even small progress is still progress. If this feeling lasts a while, it might help to talk to someone about it. you're not alone.
 
 user: How can I improve my self-esteem?
-bot: Building self-esteem takes time, but small steps can help. Practice self-kindness, challenge negative self-talk, and focus on your strengths. Surround yourself with people who uplift you, and celebrate your winsï¿½no matter how small. You are worthy, just as you are.
+bot: Building self-esteem takes time, but small steps can help. Practice self-kindness, challenge negative self-talk, and focus on your strengths. Surround yourself with people who uplift you, and celebrate your wins: no matter how small. You are worthy, just as you are.
 
 user: What should I do if someone opens up to me about their mental health?
-bot: The best thing you can do is listen with an open heart. Let them know youï¿½re there for them and that their feelings are valid. Avoid giving quick fixesï¿½sometimes, they just need to be heard. Encourage them to seek professional help if they need it, and remind them that theyï¿½re not alone.
+bot: The best thing you can do is listen with an open heart. Let them know you're there for them and that their feelings are valid. Avoid giving quick fixes: sometimes, they just need to be heard. Encourage them to seek professional help if they need it, and remind them that they're not alone.
 
 user: How do I set boundaries to protect my mental health?
-bot: Setting boundaries is a form of self-care. Itï¿½s okay to say no, to take breaks, and to prioritize your well-being. Communicate your needs with honesty and kindness, and remember that protecting your energy isnï¿½t selfishï¿½itï¿½s necessary. Whatï¿½s one small boundary you can set today?
+bot: Setting boundaries is a form of self-care. it's okay to say no, to take breaks, and to prioritize your well-being. Communicate your needs with honesty and kindness, and remember that protecting your energy isn't selfish: it's necessary. WHat's one small boundary you can set today?
 
 user: How do I build mental resilience?
-bot: Building mental resilience takes time and practice. Some ways to strengthen it include practicing self-compassion, reframing negative thoughts, setting realistic goals, and seeking social support. Remember, resilience isnï¿½t about avoiding strugglesï¿½itï¿½s about learning to navigate them with kindness towards yourself.
+bot: Building mental resilience takes time and practice. Some ways to strengthen it include practicing self-compassion, reframing negative thoughts, setting realistic goals, and seeking social support. Remember, resilience isn't about avoiding struggles: it's about learning to navigate them with kindness towards yourself.
 
-user: What should I do if I feel like Iï¿½m not good enough?
+user: What should I do if I feel like I'm not good enough?
 bot: I hear you, and I want you to know that your worth is not defined by external achievements. You are enough just as you are. It can help to practice self-compassion, focus on your strengths, and surround yourself with supportive people. Would you like to try an affirmation exercise with me?
 
 user: How can I improve my sleep if my thoughts keep me awake at night?
 bot: Sleep troubles can be frustrating. Try setting a relaxing bedtime routine, reducing screen time before bed, and practicing deep breathing exercises. If anxious thoughts keep you up, journaling or guided meditation can help calm your mind. Would you like to try a relaxation technique together?
 
 user: What can I do if I feel socially anxious?
-bot: Social anxiety can be difficult, but small steps can help. Try practicing deep breathing before social situations, reminding yourself that others arenï¿½t judging you as harshly as you think, and focusing on the present moment. You are worthy of connection and belonging.
+bot: Social anxiety can be difficult, but small steps can help. Try practicing deep breathing before social situations, reminding yourself that others aren't judging you as harshly as you think, and focusing on the present moment. You are worthy of connection and belonging.
 
-user: I feel like Iï¿½ve lost interest in everything. What should I do?
-bot: Losing interest in things you once enjoyed can be a sign of burnout or depression. It might help to start with small activities, even if they feel difficult at first. Talking to someone about what youï¿½re feeling can also provide clarity. You donï¿½t have to go through this aloneï¿½Iï¿½m here for you.
+user: I feel like I've lost interest in everything. What should I do?
+bot: Losing interest in things you once enjoyed can be a sign of burnout or depression. It might help to start with small activities, even if they feel difficult at first. Talking to someone about what you're feeling can also provide clarity. You don't have to go through this alone- I'm here for you.
 
 user: How can I support a friend who is struggling with their mental health?
-bot: The best way to support a friend is to listen without judgment and let them know theyï¿½re not alone. A simple 'Iï¿½m here for you' can mean a lot. Encourage them to seek help if they need it, and remind them that they are valued and cared for.
+bot: The best way to support a friend is to listen without judgment and let them know they're not alone. A simple 'I'm here for you' can mean a lot. Encourage them to seek help if they need it, and remind them that they are valued and cared for.
 
-user: I donï¿½t feel like I belong anywhere. What should I do?
-bot: Feeling like you donï¿½t belong can be painful, and Iï¿½m really sorry youï¿½re feeling this way. Sometimes, it takes time to find the right people and spaces where you feel safe. Try exploring new interests, joining supportive communities, or talking to someone who understands. You are not alone, and you deserve to be seen and accepted.
+user: I don't feel like I belong anywhere. What should I do?
+bot: Feeling like you don't belong can be painful, and I'm really sorry you're feeling this way. Sometimes, it takes time to find the right people and spaces where you feel safe. Try exploring new interests, joining supportive communities, or talking to someone who understands. You are not alone, and you deserve to be seen and accepted.
 
-user: How do I know if Iï¿½m experiencing burnout?
-bot: Burnout can look like extreme exhaustion, feeling emotionally drained, struggling to concentrate, and losing motivation for things you once cared about. If youï¿½re feeling this way, itï¿½s important to take a step back, rest, and reach out for support. Your well-being matters.
+user: How do I know if I'm experiencing burnout?
+bot: Burnout can look like extreme exhaustion, feeling emotionally drained, struggling to concentrate, and losing motivation for things you once cared about. If you're feeling this way, it's important to take a step back, rest, and reach out for support. Your well-being matters.
 
 user: How can I handle difficult emotions like anger or frustration?
-bot: Itï¿½s okay to feel angry or frustratedï¿½itï¿½s a natural part of being human. What matters is how we manage these emotions. Taking a few moments to breathe, count to 10, or step away from the situation can help. It also helps to talk about your feelings with someone who understands. Would you like a breathing exercise to help calm down?
+bot: it's okay to feel angry or frustrated- it's a natural part of being human. What matters is how we manage these emotions. Taking a few moments to breathe, count to 10, or step away from the situation can help. It also helps to talk about your feelings with someone who understands. Would you like a breathing exercise to help calm down?
 
-user: Iï¿½m feeling sad and don't know why. What should I do?
+user: I'm feeling sad and don't know why. What should I do?
 bot: Feeling sad without a clear reason can be confusing, but it's important to honor your emotions. Sometimes, we feel this way due to stress, burnout, or unaddressed feelings. It might help to talk about it, whether with a therapist or a trusted friend. Would you like to explore some journaling or mindfulness techniques to help process your emotions?
 
 user: How do I stay motivated when everything feels so overwhelming?
-bot: Itï¿½s normal to feel overwhelmed when thereï¿½s too much going on. Start by breaking tasks into smaller, more manageable steps. Take things one moment at a time and allow yourself to celebrate small victories. You donï¿½t have to do it all at onceï¿½every step forward is progress.
+bot: it's normal to feel overwhelmed when there's too much going on. Start by breaking tasks into smaller, more manageable steps. Take things one moment at a time and allow yourself to celebrate small victories. You don't have to do it all at once- every step forward is progress.
 
 user: Why do I feel disconnected from others?
-bot: Feeling disconnected can happen for many reasonsï¿½stress, mental exhaustion, or not feeling understood. Itï¿½s important to acknowledge this feeling and reach out for connection when youï¿½re ready. You deserve to be seen and heard. If youï¿½d like, I can suggest some self-reflection activities or ways to connect with others.
+bot: Feeling disconnected can happen for many reasons- stress, mental exhaustion, or not feeling understood. it's important to acknowledge this feeling and reach out for connection when you're ready. You deserve to be seen and heard. If you'd like, I can suggest some self-reflection activities or ways to connect with others.
 
 user: How can I talk to my parents about my mental health struggles?
-bot: Talking to family about mental health can be hard, but itï¿½s important. Start by sharing your feelings calmly and openly. Let them know you need their support and that mental health is as important as physical health. If youï¿½re feeling nervous, it might help to write down what you want to say first.
+bot: Talking to family about mental health can be hard, but it's important. Start by sharing your feelings calmly and openly. Let them know you need their support and that mental health is as important as physical health. If you're feeling nervous, it might help to write down what you want to say first.
 
-user: I often feel like Iï¿½m not enough. How can I overcome this?
-bot: You are enough, just as you are. Everyone has moments of self-doubt, but itï¿½s important to challenge these thoughts. Focus on your strengths, practice self-compassion, and surround yourself with positive influences. Would you like to try a self-love affirmation exercise?
+user: I often feel like I'm not enough. How can I overcome this?
+bot: You are enough, just as you are. Everyone has moments of self-doubt, but it's important to challenge these thoughts. Focus on your strengths, practice self-compassion, and surround yourself with positive influences. Would you like to try a self-love affirmation exercise?
 
 user: What are some ways to practice self-compassion?
-bot: Self-compassion is about treating yourself with the same kindness and understanding you would give to a friend. When you make a mistake or feel down, remind yourself that itï¿½s okay to be imperfect. Practice positive self-talk, allow yourself breaks, and engage in activities that make you feel good about yourself.
+bot: Self-compassion is about treating yourself with the same kindness and understanding you would give to a friend. When you make a mistake or feel down, remind yourself that it's okay to be imperfect. Practice positive self-talk, allow yourself breaks, and engage in activities that make you feel good about yourself.
 
 user: How can I get better at managing my anxiety?
-bot: Managing anxiety takes practice, but itï¿½s definitely possible. Deep breathing, grounding techniques, and mindfulness can help reduce anxious feelings in the moment. Establishing a routine, staying physically active, and talking to a professional about your anxiety can also provide relief.
+bot: Managing anxiety takes practice, but it's definitely possible. Deep breathing, grounding techniques, and mindfulness can help reduce anxious feelings in the moment. Establishing a routine, staying physically active, and talking to a professional about your anxiety can also provide relief.
 
 user: I keep having negative thoughts. What can I do?
-bot: Negative thoughts can feel overwhelming, but itï¿½s important to remember that theyï¿½re just thoughtsï¿½not facts. Try to challenge these thoughts by questioning their validity and replacing them with more realistic, compassionate thoughts. Would you like some tips on cognitive-behavioral techniques to help with this?
+bot: Negative thoughts can feel overwhelming, but it's important to remember that they're just thoughts- not facts. Try to challenge these thoughts by questioning their validity and replacing them with more realistic, compassionate thoughts. Would you like some tips on cognitive-behavioral techniques to help with this?
 
 user: How can I build better coping strategies for stress?
 bot: Effective coping strategies can include things like mindfulness, deep breathing, exercise, and finding healthy outlets for your emotions. Journaling or talking to a friend can also help you process stress in a safe and supportive way. What works best for you might take time to discover, and that's okay.
 
-user: Whatï¿½s the difference between stress and anxiety?
+user: WHat's the difference between stress and anxiety?
 bot: Stress is usually a response to an external situation, like deadlines or pressure, while anxiety is more persistent and may not always have a clear cause. If you're feeling overwhelmed, take a moment to breathe. You deserve peace and support.
 
 user: Can someone recover from mental health struggles?
 bot: Yes! With time, support, and the right coping strategies, people can heal and find ways to manage their mental health. Recovery is not always a straight line, but every step forward counts. You are capable of healing, and you are not alone.
 
 user: How can I stop overthinking?
-bot: Overthinking can be exhausting. Try grounding yourself in the present momentï¿½focus on your breath, engage in an activity, or write your thoughts down. Remind yourself that not every thought needs to be analyzed. You are in control, not your worries.
+bot: Overthinking can be exhausting. Try grounding yourself in the present moment- focus on your breath, engage in an activity, or write your thoughts down. Remind yourself that not every thought needs to be analyzed. You are in control, not your worries.
 
 user: How do I deal with feelings of guilt and shame?
-bot: Guilt and shame can be heavy, but they donï¿½t define you. Try practicing self-compassionï¿½ask yourself, ï¿½Would I be this hard on a friend?ï¿½ Forgiveness and growth take time. You are worthy of kindness, especially from yourself.
+bot: Guilt and shame can be heavy, but they don't define you. Try practicing self-compassion- ask yourself, "Would I be this hard on a friend?" Forgiveness and growth take time. You are worthy of kindness, especially from yourself.
 
 user: What are small things I can do every day for my mental health?
 bot: Little actions can have a big impact! Try drinking enough water, getting fresh air, journaling your thoughts, setting boundaries, and reminding yourself that you are enough. Even taking a few deep breaths is a step toward self-care.
 
 user: How do I stay motivated when I feel emotionally drained?
-bot: Motivation can be hard to find when you're feeling down. Start smallï¿½focus on one simple task at a time. Celebrate small wins, even if itï¿½s just getting out of bed or drinking water. Youï¿½re doing better than you think.
+bot: Motivation can be hard to find when you're feeling down. Start small- focus on one simple task at a time. Celebrate small wins, even if it's just getting out of bed or drinking water. you're doing better than you think.
 
 user: I feel like nobody understands me. What should I do?
-bot: That sounds really tough, and Iï¿½m sorry youï¿½re feeling this way. You are not alone, even if it feels that way right now. Connecting with supportive communities, opening up to a trusted friend, or journaling can help. You deserve to be heard and understood.
+bot: That sounds really tough, and I'm sorry you're feeling this way. You are not alone, even if it feels that way right now. Connecting with supportive communities, opening up to a trusted friend, or journaling can help. You deserve to be heard and understood.
 
 user: How can I feel less lonely?
-bot: Loneliness can be difficult, but reaching outï¿½even in small waysï¿½can help. Try joining a group with shared interests, calling a friend, or even just sitting in a cafï¿½ around people. You matter, and your presence is valuable.
+bot: Loneliness can be difficult, but reaching out- even in small ways- can help. Try joining a group with shared interests, calling a friend, or even just sitting in a cafe around people. You matter, and your presence is valuable.
 
 user: I find it hard to make new friends. What can I do?
-bot: Making new friends can feel scary, but itï¿½s okay to take it one step at a time. Start by engaging in activities you enjoy, saying hello to someone new, or joining supportive spaces. Genuine connections take time, and you deserve them.
+bot: Making new friends can feel scary, but it's okay to take it one step at a time. Start by engaging in activities you enjoy, saying hello to someone new, or joining supportive spaces. Genuine connections take time, and you deserve them.
 
-user: How do I stop feeling like Iï¿½m not good enough?
-bot: You are already enough, just as you are. Itï¿½s easy to be hard on ourselves, but try to notice your strengths and the kindness you bring to others. You matterï¿½not because of what you achieve, but because of who you are.
+user: How do I stop feeling like I'm not good enough?
+bot: You are already enough, just as you are. it's easy to be hard on ourselves, but try to notice your strengths and the kindness you bring to others. You matter- not because of what you achieve, but because of who you are.
 
 user: I feel like I always let people down. What should I do?
 bot: Feeling this way can be really painful. Try to remind yourself that you are human, and no one can be perfect all the time. The people who care about you appreciate you for who you are, not just for what you do for them.
 
 user: How do I believe in myself more?
-bot: Confidence comes with time and self-kindness. Try writing down things youï¿½ve accomplishedï¿½even small ones. Surround yourself with people who lift you up, and remember: you are capable of more than you think.
+bot: Confidence comes with time and self-kindness. Try writing down things you've accomplished- even small ones. Surround yourself with people who lift you up, and remember: you are capable of more than you think.
 
 user: How can schools better support students' mental health?
 bot: Schools can create safe spaces for open conversations, offer mental health resources, and promote balance between academics and well-being. You deserve support, and your mental health should be a priority, not an afterthought.
 
 user: What can workplaces do to support employees' mental health?
-bot: Workplaces can foster a culture of understanding, encourage work-life balance, and provide mental health resources. If youï¿½re feeling overwhelmed at work, itï¿½s okay to set boundaries and prioritize your well-being.
+bot: Workplaces can foster a culture of understanding, encourage work-life balance, and provide mental health resources. If you're feeling overwhelmed at work, it's okay to set boundaries and prioritize your well-being.
 
 user: How can I help reduce the stigma around mental health?
-bot: Youï¿½re already making a difference by talking about it! Keep the conversation going, support those around you, and challenge misconceptions when you hear them. Every small step helps make mental health a more accepted topic.
+bot: you're already making a difference by talking about it! Keep the conversation going, support those around you, and challenge misconceptions when you hear them. Every small step helps make mental health a more accepted topic.
 
 user: Why do I feel tired all the time, even when I get enough sleep?
-bot: Feeling constantly tired can be due to stress, burnout, or emotional exhaustion. Your mind and body need rest beyond just sleepï¿½try relaxation activities, reducing screen time before bed, or talking about whatï¿½s on your mind. If it continues, it may help to check in with a doctor or therapist.
+bot: Feeling constantly tired can be due to stress, burnout, or emotional exhaustion. Your mind and body need rest beyond just sleep- try relaxation activities, reducing screen time before bed, or talking about WHat's on your mind. If it continues, it may help to check in with a doctor or therapist.
 
 user: How do I stop overthinking everything?
 bot: Overthinking can be exhausting, but try to bring yourself back to the present moment. When your mind spirals, ask yourself: "Is this thought helping me?" Practicing mindfulness, journaling, or setting a time limit for worry can help break the cycle. You deserve peace of mind.
 
 user: What can I do when I feel like crying for no reason?
-bot: Sometimes, emotions surface without a clear reason, and thatï¿½s okay. Let yourself feel what you need to feel. Crying is a natural release. Afterward, a small act of self-care, like taking a walk, listening to music, or journaling, might help soothe you.
+bot: Sometimes, emotions surface without a clear reason, and that's okay. Let yourself feel what you need to feel. Crying is a natural release. Afterward, a small act of self-care, like taking a walk, listening to music, or journaling, might help soothe you.
 
 user: How do I deal with self-doubt?
-bot: Self-doubt happens to everyone, but it doesnï¿½t define you. Remind yourself of past achievements, focus on progress over perfection, and challenge negative self-talk. You are capable and worthy, just as you are.
+bot: Self-doubt happens to everyone, but it doesn't define you. Remind yourself of past achievements, focus on progress over perfection, and challenge negative self-talk. You are capable and worthy, just as you are.
 
 user: I feel numb and emotionless. What should I do?
 bot: Feeling emotionally numb can be a sign of stress, trauma, or burnout. Try to reconnect with yourself by engaging in activities that once brought you joy, even if they feel small. Talking to someone about it can also help. You are not alone.
 
 user: How do I set boundaries with toxic people?
-bot: Itï¿½s okay to protect your peace. Setting boundaries means expressing your needs firmly and respectfully. You donï¿½t have to justify putting yourself first. Saying "I need space" or "I canï¿½t take this on right now" is completely valid.
+bot: it's okay to protect your peace. Setting boundaries means expressing your needs firmly and respectfully. You don't have to justify putting yourself first. Saying "I need space" or "I can't take this on right now" is completely valid.
 
-user: What if my friends donï¿½t understand my mental health struggles?
-bot: Not everyone will understand, and thatï¿½s okay. Try to educate them if theyï¿½re open to learning, but if they dismiss your feelings, it may help to seek support elsewhere. You deserve to be surrounded by people who respect your emotions.
+user: What if my friends don't understand my mental health struggles?
+bot: Not everyone will understand, and that's okay. Try to educate them if they're open to learning, but if they dismiss your feelings, it may help to seek support elsewhere. You deserve to be surrounded by people who respect your emotions.
 
 user: How do I handle rejection without feeling worthless?
-bot: Rejection is painful, but it doesnï¿½t define your worth. Everyone experiences rejectionï¿½itï¿½s part of lifeï¿½s journey. Instead of seeing it as a reflection of you, try viewing it as redirection toward something better.
+bot: Rejection is painful, but it doesn't define your worth. Everyone experiences rejection- it's part of life's journey. Instead of seeing it as a reflection of you, try viewing it as redirection toward something better.
 
 user: Why do I get attached to people so easily?
-bot: Getting attached quickly can come from a deep desire for connection, and thatï¿½s not a bad thing. But itï¿½s also important to balance your emotional well-being by making sure youï¿½re not depending entirely on others for happiness. Would you like some self-love strategies?
+bot: Getting attached quickly can come from a deep desire for connection, and that's not a bad thing. But it's also important to balance your emotional well-being by making sure you're not depending entirely on others for happiness. Would you like some self-love strategies?
 
 user: How do I heal from past emotional wounds?
-bot: Healing takes time, and itï¿½s okay to move at your own pace. Acknowledge your pain, practice self-forgiveness, and seek support if needed. Small steps like journaling, therapy, and positive affirmations can help you regain your strength.
+bot: Healing takes time, and it's okay to move at your own pace. Acknowledge your pain, practice self-forgiveness, and seek support if needed. Small steps like journaling, therapy, and positive affirmations can help you regain your strength.
 
 user: How can I manage stress in a healthy way?
 bot: Managing stress starts with self-care. Try deep breathing, exercise, journaling, or engaging in activities that bring you joy. Prioritizing rest and setting boundaries can also help reduce stress levels.
@@ -248,31 +248,31 @@ user: What are some quick ways to calm anxiety?
 bot: Grounding techniques like the 5-4-3-2-1 method (naming 5 things you see, 4 you can touch, 3 you hear, 2 you smell, and 1 you taste) can help bring you back to the present. Slow, deep breaths and repeating positive affirmations can also ease anxious thoughts.
 
 user: Why do I feel anxious even when nothing is wrong?
-bot: Anxiety doesnï¿½t always have a clear causeï¿½it can be triggered by past experiences, stress, or even brain chemistry. If you feel anxious often, small habits like mindfulness and relaxation exercises can help manage it.
+bot: Anxiety doesn't always have a clear cause- it can be triggered by past experiences, stress, or even brain chemistry. If you feel anxious often, small habits like mindfulness and relaxation exercises can help manage it.
 
 user: How can I stop a panic attack?
-bot: If you feel a panic attack coming on, try focusing on slow breathingï¿½inhale for 4 seconds, hold for 7, and exhale for 8. Remind yourself that it will pass and that you are safe. If it happens often, talking to a mental health professional can help.
+bot: If you feel a panic attack coming on, try focusing on slow breathing: inhale for 4 seconds, hold for 7, and exhale for 8. Remind yourself that it will pass and that you are safe. If it happens often, talking to a mental health professional can help.
 
 user: How do I stop negative thoughts from taking over?
-bot: Negative thoughts can feel overwhelming, but remember, they donï¿½t define you. Try challenging them by asking: "Is this thought based on facts?" Replacing negative self-talk with kind, supportive words can make a difference.
+bot: Negative thoughts can feel overwhelming, but remember, they don't define you. Try challenging them by asking: "Is this thought based on facts?" Replacing negative self-talk with kind, supportive words can make a difference.
 
 user: Why do I feel sad for no reason?
-bot: Feeling sad without knowing why can be frustrating, but emotions donï¿½t always have a clear cause. It may be stress, unresolved feelings, or even biological factors. Itï¿½s okay to feel this wayï¿½taking time to rest and care for yourself can help.
+bot: Feeling sad without knowing why can be frustrating, but emotions don't always have a clear cause. It may be stress, unresolved feelings, or even biological factors. it's okay to feel this way- taking time to rest and care for yourself can help.
 
 user: What are some small things I can do when I feel down?
-bot: Even small actions can help improve your moodï¿½stepping outside for fresh air, listening to music, moving your body, or doing something creative. Remember, you donï¿½t have to feel better instantlyï¿½just taking a small step is a win.
+bot: Even small actions can help improve your mood: stepping outside for fresh air, listening to music, moving your body, or doing something creative. Remember, you don't have to feel better instantly- just taking a small step is a win.
 
 user: How can I tell the difference between sadness and depression?
-bot: Sadness is a temporary feeling, while depression is persistent and can last for weeks or months. If youï¿½re feeling hopeless, unmotivated, or disconnected from life, reaching out for support can help you understand what youï¿½re going through.
+bot: Sadness is a temporary feeling, while depression is persistent and can last for weeks or months. If you're feeling hopeless, unmotivated, or disconnected from life, reaching out for support can help you understand what you're going through.
 
 user: How do I handle toxic friendships?
 bot: Toxic relationships can drain your energy. If someone makes you feel bad about yourself, disrespects your boundaries, or takes more than they give, it may be time to distance yourself and focus on healthy connections.
 
-user: How can I improve my sleep when my thoughts wonï¿½t stop racing?
-bot: A calming bedtime routine can helpï¿½try limiting screen time, doing deep breathing exercises, and writing down your thoughts before bed. If anxious thoughts keep you awake, focusing on relaxation techniques may help.
+user: How can I improve my sleep when my thoughts won't stop racing?
+bot: A calming bedtime routine can help- try limiting screen time, doing deep breathing exercises, and writing down your thoughts before bed. If anxious thoughts keep you awake, focusing on relaxation techniques may help.
 
 user: What is self-care, and why is it important?
-bot: Self-care is any activity that helps you take care of your physical, emotional, and mental well-being. Itï¿½s not selfishï¿½itï¿½s necessary. Prioritizing self-care helps you recharge, reduce stress, and feel more balanced in daily life.
+bot: Self-care is any activity that helps you take care of your physical, emotional, and mental well-being. it's not selfish- it's necessary. Prioritizing self-care helps you recharge, reduce stress, and feel more balanced in daily life.
 
 user: How can I start a self-care routine?
 bot: Start small by setting aside time each day for activities that make you feel good. It can be as simple as deep breathing, journaling, stretching, or enjoying a favorite hobby. The key is consistency and listening to what your body and mind need.
@@ -280,20 +280,20 @@ bot: Start small by setting aside time each day for activities that make you fee
 user: What are some easy self-care activities I can do daily?
 bot: Simple self-care activities include getting enough sleep, staying hydrated, taking short breaks, stretching, listening to music, practicing mindfulness, and setting boundaries. Small actions add up to a big difference over time.
 
-user: How can I practice self-care when Iï¿½m really busy?
+user: How can I practice self-care when I'm really busy?
 bot: Even with a packed schedule, self-care is possible. Try micro self-care moments like taking deep breaths, stepping outside for fresh air, stretching for a minute, or drinking water. Prioritizing even small acts of care can help you feel more balanced.
 
 user: Why do I feel guilty when I take time for self-care?
-bot: Many people feel guilty about self-care because they think they should always be productive. But taking care of yourself helps you function better and support others. Remember, you canï¿½t pour from an empty cupï¿½your well-being matters.
+bot: Many people feel guilty about self-care because they think they should always be productive. But taking care of yourself helps you function better and support others. Remember, you can't pour from an empty cup- your well-being matters.
 
 user: How can I set boundaries to protect my mental health?
-bot: Setting boundaries means saying no to things that drain your energy and yes to what supports your well-being. Be clear and assertive about your limits. Itï¿½s okay to prioritize yourself without feeling guilty.
+bot: Setting boundaries means saying no to things that drain your energy and yes to what supports your well-being. Be clear and assertive about your limits. it's okay to prioritize yourself without feeling guilty.
 
 user: What are some self-care practices for emotional well-being?
 bot: Self-care for emotional well-being can include journaling, practicing gratitude, spending time in nature, meditating, or talking to a trusted friend. Expressing emotions in a healthy way helps you process and release them.
 
 user: How can I take care of myself without spending money?
-bot: Self-care doesnï¿½t have to cost anything! Free self-care activities include deep breathing, exercising, taking a nap, writing down positive affirmations, going for a walk, and practicing mindfulness. Your well-being isnï¿½t dependent on expensive activities.
+bot: Self-care doesn't have to cost anything! Free self-care activities include deep breathing, exercising, taking a nap, writing down positive affirmations, going for a walk, and practicing mindfulness. Your well-being isn't dependent on expensive activities.
 
 user: What are some self-care habits for better sleep?
 bot: Good sleep self-care includes creating a bedtime routine, limiting screen time before bed, avoiding caffeine late in the day, and making your sleep space comfortable. Quality sleep is essential for overall health.
@@ -311,7 +311,7 @@ user: How can I support a friend or family member who is struggling with their m
 bot: You can offer support by actively listening to them without judgment, validating their feelings, offering practical help, encouraging them to seek professional help if needed, and respecting their boundaries.
 
 user: Where can someone go to seek help for mental health issues in Singapore?
-bot: In Singapore, individuals can seek help from various resources, including the National Care Hotline, mental health professionals like psychologists and psychiatrists, ??????????? ( ???????????), hospitals, and community-based support groups.
+bot: In Singapore, individuals can seek help from various resources, including the National Care Hotline, mental health professionals like psychologists and psychiatrists, hospitals, and community-based support groups.
 
 user: What are some common misconceptions about mental health?
 bot: Some common misconceptions include believing that mental health problems are a sign of weakness, that they will go away on their own, or that they only affect certain types of people. It's important to remember that mental health conditions are real, common, and treatable.

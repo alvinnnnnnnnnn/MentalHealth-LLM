@@ -6,6 +6,8 @@ from load_database import start_database, store_conversation, clear_conversation
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
+print("welcome")
+
 # Streamlit page setup
 st.title("🤖 Chatbot")
 

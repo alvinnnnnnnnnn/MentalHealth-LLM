@@ -1,16 +1,15 @@
 from sentence_transformers import SentenceTransformer
 import numpy as np
+import streamlit as st
 import psycopg2
-from dotenv import load_dotenv
 import os
 
 def start_database():
-    load_dotenv()
-    USER = os.getenv("user")
-    PASSWORD = os.getenv("password")
-    HOST = os.getenv("host")
-    PORT = os.getenv("port")
-    DBNAME = os.getenv("dbname")
+    USER = st.secrets["user"]
+    PASSWORD = st.secrets["password"]
+    HOST = st.secrets["host"]
+    PORT = st.secrets["port"]
+    DBNAME = st.secrets["dbname"]
 
     try:
         connection = psycopg2.connect(
@@ -37,7 +36,7 @@ def clear_conversations(connection, cursor):
 
 
 def store_conversation(user_message, bot_response, sentiment, connection, cursor):
-    """Stores a conversation in Supabase PostgreSQL."""
+    print("storing conversation")
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
     embedding = embedding_model.encode([user_message])[0].tolist()
     try:
@@ -46,6 +45,7 @@ def store_conversation(user_message, bot_response, sentiment, connection, cursor
             (user_message, bot_response, sentiment, embedding)
         )
         connection.commit()
+        print("conversation stored")
     except Exception as e:
         print(e)
 

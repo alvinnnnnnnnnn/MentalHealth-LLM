@@ -14,7 +14,7 @@ def load_pretrained_model():
     return model, tokenizer, device 
 
 def get_sentiment(text):
-    crisis_keywords = ["end my life", "suicide", "don't want to live", "kill myself", "worthless", "no reason to live"]
+    crisis_keywords = ["end my life", "suicide", "don't want to live", "kill myself", "worthless", "no reason to live", "want to die"]
     if any(phrase in text.lower() for phrase in crisis_keywords):
         return "crisis"  
 

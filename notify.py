@@ -12,9 +12,10 @@ def trigger_alert(user_input, to):
     msg['From'] = user
     msg['To'] = to
 
-    server = smtplib.SMTP_SSL('smtp.gmail.com', 587)
-    server.starttls()
+    server = smtplib.SMTP('smtp.gmail.com', 587)  # ✅ Use regular SMTP (not SMTP_SSL)
+    server.starttls()  # ✅ Required for port 587
+
     server.login(user, password)
     server.send_message(msg)
-
+    print("therapist notified")
     server.quit()

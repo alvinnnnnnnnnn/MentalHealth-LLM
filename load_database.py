@@ -31,6 +31,7 @@ def clear_conversations(connection, cursor):
     try:
         cursor.execute("DELETE FROM conversations")
         connection.commit()
+        print("Database Cleared")
     except Exception as e:
         print(e)
 

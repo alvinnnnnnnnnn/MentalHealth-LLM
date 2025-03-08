@@ -41,7 +41,7 @@ if user_input:
     store_conversation(user_input, bot_reply, sentiments, st.session_state.connection, st.session_state.cursor)
 
     if sentiments == "crisis":
-        recipient = "@gmail.com" # therapist email
+        recipient = "alvinwongster@gmail.com" # therapist email
         trigger_alert(user_input, recipient)
 
     st.session_state.messages.append({"role": "assistant", "content": bot_reply})

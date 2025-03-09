@@ -46,7 +46,7 @@ def chatbot_response(prompt, connection, cursor):
         max_new_tokens=650,
         repetition_penalty=1.3,
         no_repeat_ngram_size=3,  
-        temperature=0.8,  
+        temperature=0.9,  
         top_p=0.9,  #
         top_k=50  
     )
@@ -61,3 +61,15 @@ def chatbot_response(prompt, connection, cursor):
         response = response.split("Bot:")[-1].strip()
 
     return response, sentiment_results
+
+def translate_cn_to_en(text):
+    pipe = pipeline("text2text-generation", model="Varine/opus-mt-zh-en-model")
+    translated_output = pipe(text)[0]  # Extracting the first result
+    translated_text = translated_output.get("generated_text", "Translation failed")  # Use .get() to avoid KeyError
+    return translated_text
+
+def translate_en_to_cn(reply): 
+    pipe = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh")
+    translated_text = pipe(reply)[0]['translation_text']
+
+    return translated_text

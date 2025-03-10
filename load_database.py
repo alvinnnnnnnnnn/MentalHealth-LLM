@@ -52,21 +52,35 @@ def store_conversation(user_message, bot_response, sentiment, connection, cursor
 
 def retrieve_past_conversations(query, connection, cursor):
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-    query_embedding = embedding_model.encode([query])[0] 
+    query_embedding = embedding_model.encode([query])[0]
 
     if isinstance(query_embedding, np.ndarray): 
         query_embedding = query_embedding.tolist()
-
+    limit = 3
     cursor.execute(
         "SELECT timestamp, user_message, bot_response FROM conversations "
-        "ORDER BY embedding <-> %s::vector LIMIT 5",
-        (query_embedding,)  # Ensure it's passed as a tuple
+        "ORDER BY embedding <-> %s::vector LIMIT %s",
+        (query_embedding, limit)
     )
 
     results = cursor.fetchall()
 
-    if results:
-        context = "\n".join([f"[{r[0]}] User: {r[1]}\nBot: {r[2]}" for r in results])
-        return context
-    else:
+    if not results:
         return ""
+
+    context = "\n".join([f"[{r[0]}] User: {r[1]}\nBot: {r[2]}" for r in results])
+
+    # max_tokens=300
+    # tokenized_context = tokenizer.encode(context, add_special_tokens=False)
+    # if len(tokenized_context) > max_tokens:
+    #     tokenized_context = tokenized_context[-max_tokens:]  # Keep most recent
+    #     context = tokenizer.decode(tokenized_context)
+
+    return context
+
+def get_last_user_message(connection, cursor):
+    cursor.execute(
+        "SELECT user_message FROM conversations ORDER BY timestamp DESC LIMIT 1;"
+    )
+    result = cursor.fetchone()
+    return result[0] if result else None  # Return the last message if found

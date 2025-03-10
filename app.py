@@ -109,6 +109,11 @@ else:
             st.markdown(message["content"])
 
 user_input = st.chat_input("Type your message...")
+# user_input = st.text_area("Type your message...", height=68)
+
+# Display warning below the chat box
+st.markdown("---")
+st.markdown("⚠️ *Lumin.AI can make mistakes. Please clarify with your therapist if you are unsure.*")
 
 if user_input:
     if st.session_state.language == "Chinese":
@@ -149,7 +154,3 @@ if user_input:
 
     # Rerun to maintain chat history
     st.rerun()
-
-# Display warning below the chat box
-st.markdown("---")
-st.markdown("⚠️ *Lumin.AI can make mistakes. Please clarify with your therapist if you are unsure.*")

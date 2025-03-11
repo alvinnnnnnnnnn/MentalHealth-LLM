@@ -7,8 +7,8 @@ def load_pretrained_model():
     torch.cuda.empty_cache()
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    model = AutoModelForCausalLM.from_pretrained("results", device_map="auto")
-    tokenizer = AutoTokenizer.from_pretrained("results", device_map="auto")
+    tokenizer = AutoTokenizer.from_pretrained("alvinwongster/LuminAI")
+    model = AutoModelForCausalLM.from_pretrained("alvinwongster/LuminAI")
 
     model.to(device)
 

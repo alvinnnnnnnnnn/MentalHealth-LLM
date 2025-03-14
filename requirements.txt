@@ -1,8 +1,8 @@
-transformers
-scikit-learn
-datasets
-pandas
-numpy
-streamlit
-sentence-transformers
-psycopg2-binary
+transformers==4.48.3
+scikit-learn==1.6.1 
+datasets==3.3.2 
+pandas==2.2.3
+numpy==2.0.2
+streamlit==1.42.2
+sentence-transformers==3.4.1
+psycopg2-binary==2.9.10 

@@ -58,6 +58,7 @@ The chatbot has been trained using conversational data, which is supposed to mim
 ## Solution
 Used `SmolLM2-360M-Instruct` from Hugging Face, and trained it on the custom dataset from above. 
 
+Visit this [page](https://huggingface.co/alvinwongster/LuminAI) for the uploaded model on Hugging Face, because the final model results are too large to post onto github
 
 ## Model Metrics
 To evaluate the chatbot's performance based on our use case, the following weighted metrics system was used:
@@ -70,13 +71,13 @@ To evaluate the chatbot's performance based on our use case, the following weigh
 - Time taken (10%)
     - Time taken to generate a response, a shorter time optimizes user experience 
 
-|Metrics             |GPT|Llama|LuminAI|
-|--------------------|---|-----|-------|
-|Empathy Score       |||
-|Human Likeness      |||
-|BERTScore F1        |||
-|BERTScore Recall    |||
-|BERTScore Precision |||
-|Time Taken          |||
-|Total Score         |||
+|Metrics             |GPT  |Llama|LuminAI|
+|--------------------|:---:|:---:|:-----:|
+|Empathy Score       |0.8  |0.79 |0.79   |
+|Human Likeness      |0.27 |0.45 |0.5    |
+|BERTScore F1        |0.45 |0.48 |0.51   |
+|BERTScore Recall    |0.51 |0.53 |0.55   |
+|BERTScore Precision |0.41 |0.44 |0.47   |
+|Time Taken          |89.65|15.85|39.42  |
+|Total Score         |0.54 |0.65 |0.63   |
 

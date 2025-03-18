@@ -1,4 +1,5 @@
 # Lumin.AI 🧠👨‍⚕️
+![cover image](https://github.com/alvinnnnnnnnnn/MentalHealth-LLM/blob/main/asset/LuminAI_logo.png)
 
 Welcome aboard! **Lumin.AI** is a supportive AI assistant designed to provide immediate emotional support to individuals outside of regular consulting hours. It acts as a supplementary tool for patients and therapists, ensuring that mental health care is more accessible and responsive to users' needs.
 
@@ -13,6 +14,10 @@ The chatbot is designed to offer **24/7 availability, guided therapy techniques,
 - Semantic Memory – Remembers past interactions for a more personalized experience.
 - Harm Detection & Therapist Alerts – Detects harmful messages and notifies therapists when needed.
 
+## Model Demo
+![Demo](https://github.com/alvinnnnnnnnnn/MentalHealth-LLM/blob/main/asset/demo_2.gif)
+![Demo](https://github.com/alvinnnnnnnnnn/MentalHealth-LLM/blob/main/asset/demo_1.gif)
+
 ---
 
 ## Table of Contents
@@ -25,6 +30,8 @@ The chatbot is designed to offer **24/7 availability, guided therapy techniques,
 
 ## Quick Start
 If you just want to use the chatbot, you can head down to this [link](https://luminai-chatbot.streamlit.app/)
+
+Or to this [link](https://github.com/alvinnnnnnnnnn/Lumin.AI) if you want to see how the app runs
 
 If you want to find out more about the solution, you can follow these simple steps (Ensure that you have a GPU enabled device):
 1. Install anaconda from [here](https://www.anaconda.com/) 
